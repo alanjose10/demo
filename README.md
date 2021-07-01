@@ -4,6 +4,4 @@ This is a simple readme file.
 
 ## Something new
 
-just some fucking updates
-
-This is bound to cause trouble
+Some more updates
